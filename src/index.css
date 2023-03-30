@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.the-count {
+  font-size: 20vw;
+  margin: 10px;
+  height: 40vh;
+  width: 40vw;
+  background-color: brown;
+  color: yellow;
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+/* button {
+  
+} */
+
+.sizeBtn-large {
+  width: 40vw;
+  margin: 10px;
+  padding: 10px;
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  transition: 0.5s;
+}
+
+.sizeBtn-small {
+  width: 20vw;
+  margin: 10px;
+  padding: 5px;
+  background-color: rgb(95, 43, 226);
+  color: white;
+  border: none;
+  transition: 0.5s;
+}
+
+.display-area {
+  background-color: rgb(16, 40, 32);
+  color: yellow;
+  height: 300px;
+  width: 600px;
+  font-size: 1.5rem;
+  display: inline-block;
+}
